@@ -6,6 +6,5 @@ Apart from that, all the external commands work the same as they do in real bash
 
 **Compile+Run** - in WSL:
 
-> gcc *.c -o basic-bash
-> 
-> ./basic-bash
+    gcc *.c -o basic-bash
+    ./basic-bash
